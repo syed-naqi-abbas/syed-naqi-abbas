@@ -1,5 +1,5 @@
 ## Hi there 👋 I'm Syed Naqi Abbas
-I'm Syed Naqi Abbas, a B.Tech student at IIT Ropar passionate about robotics, embedded systems, and AI. I love building real-world tech—that makes a difference. I'm actively exploring ROS2, Gazebo, and SLAM for autonomous robotics. Let’s build something awesome!
+I'm Syed Naqi Abbas, an undergrad student in AI&DE at IIT Ropar passionate about robotics, embedded systems, and AI. I love building real-world tech—that makes a difference. I'm actively exploring ROS2, autonomous robotics, and use of AI in robotics. Let’s build something awesome!
 
 <!--
 **syed-naqi-abbas/syed-naqi-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
