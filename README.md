@@ -1,5 +1,9 @@
 ## Hi there 👋 I'm Syed Naqi Abbas
-I'm Syed Naqi Abbas, an undergrad student in AI&DE at IIT Ropar passionate about robotics, embedded systems, and AI. I love building real-world tech—that makes a difference. I'm actively exploring ROS2, autonomous robotics, and use of AI in robotics. Let’s build something awesome!
+I am a second-year B.Tech student at IIT Ropar, majoring in Artificial Intelligence and Data Engineering, with a strong interest in software development, robotics, and intelligent systems.
+
+I enjoy building end-to-end projects that combine algorithms, systems, and real-world constraints. My hands-on work includes autonomous robotics, computer vision–based perception, sensor-driven systems, and backend services, where I focus on clean architecture, reliability, and performance. Through these projects, I have gained practical experience with Python, C++, ROS 2, OpenCV, and embedded platforms, while strengthening my foundations in data structures, algorithms, and system design.
+
+I am actively exploring opportunities to learn, build, and grow as an engineer, and I am particularly interested in roles at the intersection of software engineering, AI, and real-world applications.
 
 <!--
 **syed-naqi-abbas/syed-naqi-abbas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
